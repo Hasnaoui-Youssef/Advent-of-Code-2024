@@ -1,0 +1,9 @@
+*/node_modules/
+*/target/
+*/.vscode/
+*.exe
+*/.vs/
+*/bin/
+*/obj/
+*.csproj
+*.sln
